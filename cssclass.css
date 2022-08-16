@@ -1,0 +1,23 @@
+*{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+body{
+
+    background-color: steelblue;
+    border: 21px solid olive;
+}
+
+#para{
+    border: 10px solid red;
+}
+
+.info{
+    text-align: center;
+    font-size: large;
+    
+}
+#this{
+    text-align: center;
+}
